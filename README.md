@@ -7,6 +7,9 @@ A fully functional e-commerce platform for a clothing store, allowing users to b
 Click onto the thumbnail to watch!
 [![Watch the Demo](https://img.youtube.com/vi/ZhPm3UiTWuA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZhPm3UiTWuA)
 
+## 🛍️EER
+
+🛍![EER](https://i.imgur.com/e-7fB6wLN.png)
 
 ## 🚀 Features
 
