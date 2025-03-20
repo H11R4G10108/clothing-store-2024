@@ -1,0 +1,14 @@
+#product-list {
+  background-color: #fff;
+  flex: 0 1 calc(20% - 8px);
+}
+
+#product-list button:hover {
+  color: #ffff;
+}
+
+@media screen and (max-width: 768px) {
+  .product {
+    padding: 15px;
+  }
+}
