@@ -3,7 +3,8 @@
 A fully functional e-commerce platform for a clothing store, allowing users to browse products, manage carts, and complete purchases.
 
 
-## 🎥 Demo Video  
+## 🎥 Demo Video
+Click onto the thumbnail to watch!
 [![Watch the Demo](https://img.youtube.com/vi/ZhPm3UiTWuA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZhPm3UiTWuA)
 
 
