@@ -4,9 +4,7 @@ A fully functional e-commerce platform for a clothing store, allowing users to b
 
 
 ## 🎥 Demo Video  
-[![Watch the Demo]
-(https://img.youtube.com/vi/ZhPm3UiTWuA/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ZhPm3UiTWuA)
+[![Watch the Demo](https://img.youtube.com/vi/ZhPm3UiTWuA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZhPm3UiTWuA)
 
 
 ## 🚀 Features
