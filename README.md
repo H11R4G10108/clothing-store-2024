@@ -36,14 +36,16 @@ Click onto the thumbnail to watch!
 ## 🛠️ Tech Stack
 
 Frontend
-ReactJS -
-React Router -
-Tailwind CSS
+
+- ReactJS
+- React Router
+- Tailwind CSS
 
 Backend
-Django REST Framework -
-MySQL -
-JWT Authentication
+
+- Django REST Framework
+- MySQL
+- JWT Authentication
 
 ## 📌 API Endpoints
 
