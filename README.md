@@ -1,10 +1,13 @@
 Clothing Store Website
+
 A fully functional e-commerce platform for a clothing store, allowing users to browse products, manage carts, and complete purchases.
 
 🎯 Project Goal
+
 Develop a responsive and feature-rich online clothing store with essential e-commerce functionalities.
 
 🚀 Features
+
 ✅ Product List – Browse all available clothing items.
 ✅ Product Detail – View product images, price, and descriptions.
 ✅ Product Search – Search for products using keywords.
@@ -17,20 +20,24 @@ Develop a responsive and feature-rich online clothing store with essential e-com
 ✅ Register – Create a new account.
 
 🛠️ Tech Stack
+
 Frontend
 ReactJS
 React Router
 Tailwind CSS
+
 Backend
 Django REST Framework
 MySQL
 JWT Authentication
+
 📂 Project Structure
 Clothing-Store-Website/
 │── back-end/          # Django REST API
 │── front-end/         # ReactJS UI
 │── README.md          # Project Documentation
 │── .gitignore         # Git Ignore Rules
+
 📌 API Endpoints
 🔐 Authentication
 Method	Endpoint	Description
