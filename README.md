@@ -1,12 +1,16 @@
-Clothing Store Website
+## Clothing Store Website
 
 A fully functional e-commerce platform for a clothing store, allowing users to browse products, manage carts, and complete purchases.
 
-🎯 Project Goal
+## 🎯 Project Goal
 
 Develop a responsive and feature-rich online clothing store with essential e-commerce functionalities.
 
-🚀 Features
+## 🎥 Demo Video  
+[![Watch the Demo](https://img.youtube.com/vi/ZhPm3UiTWuA/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZhPm3UiTWuA)
+
+
+## 🚀 Features
 
 ✅ Product List – Browse all available clothing items.
 
@@ -28,7 +32,7 @@ Develop a responsive and feature-rich online clothing store with essential e-com
 
 ✅ Register – Create a new account.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend
 ReactJS -
@@ -40,9 +44,9 @@ Django REST Framework -
 MySQL -
 JWT Authentication
 
-📌 API Endpoints
+## 📌 API Endpoints
 
-🔐 Authentication
+## 🔐 Authentication
 
 
 POST	/api/token/	Get authentication token
@@ -53,14 +57,14 @@ POST	/api/register/	Register new user
 
 POST	/api/change-password/	Change user password
 
-🛍️ Product & Category
+## 🛍️ Product & Category
 
 
 GET	/api/product/	Retrieve all products
 
 GET	/api/categoryview/	Get product categories
 
-📦 Address Management
+## 📦 Address Management
 
 
 GET	/api/address/	List all addresses
@@ -71,7 +75,7 @@ PATCH	/api/mark_default_address/<int:pk>/	Set default address
 
 GET	/api/user/<int:pk>/address	Retrieve user’s address
 
-🛒 Order Management
+## 🛒 Order Management
 
 
 GET	/api/order/	Retrieve all orders
