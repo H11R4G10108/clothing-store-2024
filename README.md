@@ -9,7 +9,7 @@ Click onto the thumbnail to watch!
 
 ## 🛍️EER
 
-🛍![EER](https://i.imgur.com/e-7fB6wLN.png)
+🛍![EER](https://i.imgur.com/RVkGGHE.png)
 
 ## 🚀 Features
 
